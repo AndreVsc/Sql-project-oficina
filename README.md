@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="ModeloER_oficina.png" alt="Entity-Relationship Model for the Auto Repair Shop" />
+  <img src="ModelER_oficina.png" alt="Entity-Relationship Model for the Auto Repair Shop" />
 </p>
 
 <br>
